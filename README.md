@@ -1,3 +1,3 @@
 # Pokedex-Corona-SDK
-<hr>
+<br>
 Develop by Passakorn Rattanaprapan
